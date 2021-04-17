@@ -1,5 +1,8 @@
 ## Trading Bot
 
 ```bash
-└── README.md
+tradingBOT
+├── README.md
+└── Upbit
+    └── main.py
 ```
